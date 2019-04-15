@@ -1,0 +1,19 @@
+C:\Users\acer\AppData\Local\Temporary Projects\SimulatorKebutuhanPakanItik\bin\Debug\SimulatorKebutuhanPakanItik.exe
+C:\Users\acer\AppData\Local\Temporary Projects\SimulatorKebutuhanPakanItik\bin\Debug\SimulatorKebutuhanPakanItik.pdb
+C:\Users\acer\AppData\Local\Temporary Projects\SimulatorKebutuhanPakanItik\bin\Debug\SimulatorKebutuhanPakanItik.xml
+C:\Users\acer\AppData\Local\Temporary Projects\SimulatorKebutuhanPakanItik\obj\x86\Debug\SimulatorKebutuhanPakanItik.Resources.resources
+C:\Users\acer\AppData\Local\Temporary Projects\SimulatorKebutuhanPakanItik\obj\x86\Debug\SimulatorKebutuhanPakanItik.vbproj.GenerateResource.Cache
+C:\Users\acer\AppData\Local\Temporary Projects\SimulatorKebutuhanPakanItik\obj\x86\Debug\SimulatorKebutuhanPakanItik.exe
+C:\Users\acer\AppData\Local\Temporary Projects\SimulatorKebutuhanPakanItik\obj\x86\Debug\SimulatorKebutuhanPakanItik.xml
+C:\Users\acer\AppData\Local\Temporary Projects\SimulatorKebutuhanPakanItik\obj\x86\Debug\SimulatorKebutuhanPakanItik.pdb
+C:\Users\acer\Documents\Visual Studio 2010\Projects\SimulatorKebutuhanPakanItik\SimulatorKebutuhanPakanItik\obj\x86\Debug\SimulatorKebutuhanPakanItik.exe
+C:\Users\acer\Documents\Visual Studio 2010\Projects\SimulatorKebutuhanPakanItik\SimulatorKebutuhanPakanItik\obj\x86\Debug\SimulatorKebutuhanPakanItik.xml
+C:\Users\acer\Documents\Visual Studio 2010\Projects\SimulatorKebutuhanPakanItik\SimulatorKebutuhanPakanItik\obj\x86\Debug\SimulatorKebutuhanPakanItik.pdb
+C:\Users\acer\Documents\Visual Studio 2010\Projects\SimulatorKebutuhanPakanItik\SimulatorKebutuhanPakanItik\bin\Debug\SimulatorKebutuhanPakanItik.exe.config
+C:\Users\acer\Documents\Visual Studio 2010\Projects\SimulatorKebutuhanPakanItik\SimulatorKebutuhanPakanItik\bin\Debug\SimulatorKebutuhanPakanItik.exe
+C:\Users\acer\Documents\Visual Studio 2010\Projects\SimulatorKebutuhanPakanItik\SimulatorKebutuhanPakanItik\bin\Debug\SimulatorKebutuhanPakanItik.pdb
+C:\Users\acer\Documents\Visual Studio 2010\Projects\SimulatorKebutuhanPakanItik\SimulatorKebutuhanPakanItik\bin\Debug\SimulatorKebutuhanPakanItik.xml
+C:\Users\acer\Documents\Visual Studio 2010\Projects\SimulatorKebutuhanPakanItik\SimulatorKebutuhanPakanItik\obj\x86\Debug\SimulatorKebutuhanPakanItik.Form1.resources
+C:\Users\acer\Documents\Visual Studio 2010\Projects\SimulatorKebutuhanPakanItik\SimulatorKebutuhanPakanItik\obj\x86\Debug\SimulatorKebutuhanPakanItik.Resources.resources
+C:\Users\acer\Documents\Visual Studio 2010\Projects\SimulatorKebutuhanPakanItik\SimulatorKebutuhanPakanItik\obj\x86\Debug\SimulatorKebutuhanPakanItik.vbproj.GenerateResource.Cache
+C:\Users\acer\documents\visual studio 2010\Projects\SimulatorKebutuhanPakanItik\SimulatorKebutuhanPakanItik\obj\x86\Debug\SimulatorKebutuhanPakanItik.Form2.resources
